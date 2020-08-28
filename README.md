@@ -1,2 +1,3 @@
-# devops-aula03
-Exercício_1 - Aula_-_03
+1 - Clint Eastwood
+2 - Charles Bronson
+3 - Arnold Schwarzenegger
